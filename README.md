@@ -1,2 +1,2 @@
-# UserRegistionWithFingerprint
-My first Year Project Using Java Student Registration and Attendants System with Fingerprint Authentication 
+# User Registration With Fingerprint
+My first Year (2017) Project Using Java Student Registration and Attendants System with Fingerprint Authentication 
